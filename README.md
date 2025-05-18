@@ -1,0 +1,2 @@
+# ECE592-DiscreteGaussianSamplingforFALCONDigitalSignature
+Hardware Implementation of Discrete Gaussian Sampling for FALCON Digital Signature
