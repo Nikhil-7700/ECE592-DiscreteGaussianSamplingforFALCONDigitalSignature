@@ -1,0 +1,10 @@
+// Testcase 1
+mu = -21.128245, isigma = 0.583992, sigma_min = 1.257055
+Hex: mu = c03520d4a63c896e, isigma = 3fe2b00fe5a7ad7a, sigma_min = 3ff41ce5358cb3a0
+s = -22, r = 0.871755, dss = 0.170523, ccs = 0.734110
+Hex: s = ffffffea, r = 3febe56b386ed240, dss = 3fc5d3b522857ab6, ccs = 3fe77dd3b1529038
+// Testcase 2
+mu = 10.266905, isigma = 0.583992, sigma_min = 1.257055
+Hex: mu = 402488a7d1d64b8b, isigma = 3fe2b00fe5a7ad7a, sigma_min = 3ff41ce5358cb3a0
+s = 10, r = 0.266905, dss = 0.170523, ccs = 0.734110
+Hex: s = a, r = 3fd114fa3ac97160, dss = 3fc5d3b522857ab6, ccs = 3fe77dd3b1529038
